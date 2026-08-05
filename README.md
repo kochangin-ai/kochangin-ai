@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=WELCOME&fontSize=90&desc=%20This%20is%20gochangin-ai's%20Github&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=60&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=WELCOME&fontSize=90&desc=%20This%20is%20kochangin-ai's%20Github&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=60&fontAlignY=40)
 
 
 ## Hi there 👋
@@ -24,7 +24,7 @@ Hello, I'm ChangIn Ko, Aspiring ML Engineer
 | 연도 | 대회명 | 주최 | 내용 | 수상 | 
 | :------: | :------: | :------: | :------: | :------: |
 | 2022 | 2022 SW중심대학 공동AI경진대회 | 과학기술정보통신부 | 한글 이미지 OCR 솔루션 모델 개발 | 정보통신기획평가원장상(최우수상) | 
-| 2024 | 2024 국방 AI 경진대회 | 대한민국 국방부 | AI전차 활용 모의 군사 임무 수행 (전차 자율주행, 적군/아군식별, 적군 전차 파괴) | 해군 참모종장상(우수상) | 
+| 2024 | 2024 국방 AI 경진대회 | 대한민국 국방부 | AI전차 활용 모의 군사 임무 수행 (전차 자율주행, 적군/아군식별, 적군 전차 파괴) | 해군 참모총장상(우수상) | 
 
 ## 📚 Education
 
